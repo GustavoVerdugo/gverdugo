@@ -3,7 +3,7 @@ export default
     {
         name :'GustavoDEV',
         headerTagline: [
-                        '👨🏻‍💻 Gustavo Verdugo Ortiz - Ingeniero en Informatica',
+                        '👨🏻‍💻 GustavoDEV - Software Enginner',
                         '👾 Desarrollador Web y Mobile',
                         '  Santiago, Chile'
     ],
