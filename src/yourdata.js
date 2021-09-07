@@ -1,7 +1,7 @@
 const photo = require('../src/assets/images/IMG_4141.jpg')
 export default
     {
-        name :'Gustavo Verdugo',
+        name :'GustavoDEV',
         headerTagline: [
                         '👨🏻‍💻 Gustavo Verdugo Ortiz - Ingeniero en Informatica',
                         '👾 Desarrollador Web y Mobile',
